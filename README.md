@@ -1,5 +1,5 @@
-# yogev
-Encrypted Zoom traffic dataset
+# Encrypted Zoom traffic dataset
+
 
 This dataset contains 60 videos, recorded during a live Zoom session.
 During each video, we got one sample of data from the encrypted traffic, and one sample of the video's parameters to infer the quality of the video, every five seconds (overall, 12 samples per video).
