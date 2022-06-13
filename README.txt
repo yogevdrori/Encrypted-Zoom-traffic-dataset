@@ -20,7 +20,7 @@ The labels in the dataset, that infer the quality of the video , are:
 - Frames per second
 - Latancy
 - Jitter
-- NIQE - no-reference video quality score
+- NIQE - no-reference Video Quality Assessment (VQA) metric
 
 In order to exract the features from the traffic in real-time, we used Pyshark- Python's dictionary that allows sniffing
 packets from the traffic. In order to extract the labels from the Zoom session in real-time, we used Zoom's video SDK.
