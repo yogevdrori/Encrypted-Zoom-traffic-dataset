@@ -1,7 +1,7 @@
 # Encrypted Zoom traffic dataset
 
 
-This dataset contains 60 videos, recorded during a live Zoom session.
+This dataset contains 60 videos, one minute each, recorded during a live Zoom session.
 During each video, we got one sample of data from the encrypted traffic, and one sample of the video's parameters to infer the quality of the video, every five seconds (overall, 12 samples per video).
 We combined this samples and created a dataset that indicated the video quality during a Zoom session. based on the traffic conditions.
 We manually changed the traffic conditions, such as limit bandwidth, adding latency or packet loss, in order to simulate different traffic conditions.
